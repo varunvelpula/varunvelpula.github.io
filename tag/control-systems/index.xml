@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Control Systems | Personal Portfolio</title>
+    <link>https://varunvelpula.github.io/tag/control-systems/</link>
+      <atom:link href="https://varunvelpula.github.io/tag/control-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Control Systems</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://varunvelpula.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Control Systems</title>
+      <link>https://varunvelpula.github.io/tag/control-systems/</link>
+    </image>
+    
+    <item>
+      <title>Control of quadcopters in an indoor environment</title>
+      <link>https://varunvelpula.github.io/project/iisc/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://varunvelpula.github.io/project/iisc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
