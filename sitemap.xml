@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>https://varunvelpula.github.io/course_projects/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://varunvelpula.github.io/tag/deep-learning/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -28,12 +23,17 @@
   </url>
   
   <url>
+    <loc>https://varunvelpula.github.io/project/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://varunvelpula.github.io/tags/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://varunvelpula.github.io/course_projects/cis680_yolo/</loc>
+    <loc>https://varunvelpula.github.io/project/cis680_yolo/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,12 +43,7 @@
   </url>
   
   <url>
-    <loc>https://varunvelpula.github.io/project/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://varunvelpula.github.io/course_projects/ese650_slam/</loc>
+    <loc>https://varunvelpula.github.io/project/ese650_slam/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://varunvelpula.github.io/course_projects/ese650_ukf/</loc>
+    <loc>https://varunvelpula.github.io/project/ese650_ukf/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,7 +83,12 @@
   </url>
   
   <url>
-    <loc>https://varunvelpula.github.io/project/nitk_lab/</loc>
+    <loc>https://varunvelpula.github.io/older_projects/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://varunvelpula.github.io/older_projects/nitk_lab/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,17 +118,17 @@
   </url>
   
   <url>
-    <loc>https://varunvelpula.github.io/project/smart_city/</loc>
+    <loc>https://varunvelpula.github.io/older_projects/smart_city/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://varunvelpula.github.io/project/robocon/</loc>
+    <loc>https://varunvelpula.github.io/older_projects/robocon/</loc>
     <lastmod>2018-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://varunvelpula.github.io/project/pcvt/</loc>
+    <loc>https://varunvelpula.github.io/older_projects/pcvt/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url>
   

@@ -5,7 +5,7 @@
     <link>https://varunvelpula.github.io/project/</link>
       <atom:link href="https://varunvelpula.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://varunvelpula.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>YOLO algorithm for object recognition in images</title>
+      <link>https://varunvelpula.github.io/project/cis680_yolo/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://varunvelpula.github.io/project/cis680_yolo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning Interactions and Dynamics of Swarms</title>
       <link>https://varunvelpula.github.io/project/cis522/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://varunvelpula.github.io/project/cis522/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting success of a crowdfunded project on Kickstrater platform</title>
+      <link>https://varunvelpula.github.io/project/ese650_slam/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://varunvelpula.github.io/project/ese650_slam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unscented Kalman Filter to track robot position in 3D space</title>
+      <link>https://varunvelpula.github.io/project/ese650_ukf/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://varunvelpula.github.io/project/ese650_ukf/</guid>
       <description></description>
     </item>
     
@@ -45,42 +69,10 @@
     </item>
     
     <item>
-      <title>On effectiveness of camera on an UAV mounted search sensor</title>
-      <link>https://varunvelpula.github.io/project/nitk_lab/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://varunvelpula.github.io/project/nitk_lab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Control of quadcopters in an indoor environment</title>
       <link>https://varunvelpula.github.io/project/iisc/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://varunvelpula.github.io/project/iisc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Smart City</title>
-      <link>https://varunvelpula.github.io/project/smart_city/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://varunvelpula.github.io/project/smart_city/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ABU Robocon Robotics Competition</title>
-      <link>https://varunvelpula.github.io/project/robocon/</link>
-      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://varunvelpula.github.io/project/robocon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Positive Drive Continuously Variable Transmission (CVT)</title>
-      <link>https://varunvelpula.github.io/project/pcvt/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://varunvelpula.github.io/project/pcvt/</guid>
       <description></description>
     </item>
     

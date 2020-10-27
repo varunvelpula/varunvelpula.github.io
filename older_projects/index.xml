@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Older_projects | Personal Portfolio</title>
+    <link>https://varunvelpula.github.io/older_projects/</link>
+      <atom:link href="https://varunvelpula.github.io/older_projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Older_projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://varunvelpula.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Older_projects</title>
+      <link>https://varunvelpula.github.io/older_projects/</link>
+    </image>
+    
+    <item>
+      <title>On effectiveness of camera on an UAV mounted search sensor</title>
+      <link>https://varunvelpula.github.io/older_projects/nitk_lab/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://varunvelpula.github.io/older_projects/nitk_lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart City</title>
+      <link>https://varunvelpula.github.io/older_projects/smart_city/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://varunvelpula.github.io/older_projects/smart_city/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ABU Robocon Robotics Competition</title>
+      <link>https://varunvelpula.github.io/older_projects/robocon/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://varunvelpula.github.io/older_projects/robocon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Positive Drive Continuously Variable Transmission (CVT)</title>
+      <link>https://varunvelpula.github.io/older_projects/pcvt/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://varunvelpula.github.io/older_projects/pcvt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
