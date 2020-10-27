@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Developed of a mock model of a smart city incorporating concepts in Internet of Things, sensors and sctuators, computer vision and path planning as part of a team of twenty students over an entire semester. Further, I personally developed the module and code for the detection and localization of the Autonomous Ground Vehicles (AGVs) and buildings using an overhead camera through the detection of AruCo markers.">
+  <meta name="description" content="Implemented an Unscented Kalman Filter for orientation tracking of quadcopters. The data given was that of IMU (accelerometer and gyroscope). The results of the UKF was compared with the ground truth position data which was obtained from a motion capture system.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://varunvelpula.github.io/project/smart_city/">
+  <link rel="alternate" hreflang="en-us" href="https://varunvelpula.github.io/course_projects/ese650_ukf/">
 
   
 
@@ -231,7 +231,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://varunvelpula.github.io/project/smart_city/">
+  <link rel="canonical" href="https://varunvelpula.github.io/course_projects/ese650_ukf/">
 
   
   
@@ -246,65 +246,20 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Personal Portfolio">
-  <meta property="og:url" content="https://varunvelpula.github.io/project/smart_city/">
-  <meta property="og:title" content="Smart City | Personal Portfolio">
-  <meta property="og:description" content="Developed of a mock model of a smart city incorporating concepts in Internet of Things, sensors and sctuators, computer vision and path planning as part of a team of twenty students over an entire semester. Further, I personally developed the module and code for the detection and localization of the Autonomous Ground Vehicles (AGVs) and buildings using an overhead camera through the detection of AruCo markers."><meta property="og:image" content="https://varunvelpula.github.io/project/smart_city/featured.png">
-  <meta property="twitter:image" content="https://varunvelpula.github.io/project/smart_city/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://varunvelpula.github.io/course_projects/ese650_ukf/">
+  <meta property="og:title" content="Unscented Kalman Filter to track robot position in 3D space | Personal Portfolio">
+  <meta property="og:description" content="Implemented an Unscented Kalman Filter for orientation tracking of quadcopters. The data given was that of IMU (accelerometer and gyroscope). The results of the UKF was compared with the ground truth position data which was obtained from a motion capture system."><meta property="og:image" content="https://varunvelpula.github.io/course_projects/ese650_ukf/featured.png">
+  <meta property="twitter:image" content="https://varunvelpula.github.io/course_projects/ese650_ukf/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2018-04-01T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2020-03-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2018-04-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-03-01T00:00:00&#43;00:00">
   
 
   
 
 
-    
-
-
-
-
-
-
-
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://varunvelpula.github.io/project/smart_city/"
-  },
-  "headline": "Smart City",
-  
-  "image": [
-    "https://varunvelpula.github.io/project/smart_city/featured.png"
-  ],
-  
-  "datePublished": "2018-04-01T00:00:00Z",
-  "dateModified": "2018-04-01T00:00:00Z",
-  
-  "author": {
-    "@type": "Person",
-    "name": "Venkat Varun Velpula"
-  },
-  
-  "publisher": {
-    "@type": "Organization",
-    "name": "Personal Portfolio",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://varunvelpula.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
-    }
-  },
-  "description": "Developed of a mock model of a smart city incorporating concepts in Internet of Things, sensors and sctuators, computer vision and path planning as part of a team of twenty students over an entire semester. Further, I personally developed the module and code for the detection and localization of the Autonomous Ground Vehicles (AGVs) and buildings using an overhead camera through the detection of AruCo markers."
-}
-</script>
-
-  
 
   
 
@@ -318,7 +273,7 @@
 
 
 
-  <title>Smart City | Personal Portfolio</title>
+  <title>Unscented Kalman Filter to track robot position in 3D space | Personal Portfolio</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -556,7 +511,7 @@
 </nav>
 
 
-  <article class="article article-project">
+  <article class="article">
 
   
 
@@ -580,13 +535,11 @@
 
 
   
-  
-    
   
 
 
 <div class="article-container pt-3">
-  <h1>Smart City</h1>
+  <h1>Unscented Kalman Filter to track robot position in 3D space</h1>
 
   
 
@@ -604,7 +557,7 @@
     
       
     
-    Apr 1, 2018
+    Mar 1, 2020
   </span>
   
 
@@ -635,61 +588,14 @@
 
 
 
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://drive.google.com/file/d/1va4RS7xj40L4kzbCkDqMMY-dQMVoFdyl/view?usp=sharing" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/varunvelpula/smartcityimageprocessing" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </div>
 
 
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 532px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 512px; max-height: 512px;">
   <div style="position: relative">
-    <img src="/project/smart_city/featured_hu0fd24069c378b59b3c7b937e8e6ce36e_1048875_720x0_resize_lanczos_2.png" alt="" class="featured-image">
-    <span class="article-header-caption">Photo by Toa Heftiba on Unsplash</span>
+    <img src="/course_projects/ese650_ukf/featured.png" alt="" class="featured-image">
+    
   </div>
 </div>
 
@@ -710,7 +616,7 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/image-processing/">Image Processing</a>
+  <a class="badge badge-light" href="/tag/robotics/">Robotics</a>
   
 </div>
 
@@ -727,7 +633,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://varunvelpula.github.io/project/smart_city/&amp;text=Smart%20City" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://varunvelpula.github.io/course_projects/ese650_ukf/&amp;text=Unscented%20Kalman%20Filter%20to%20track%20robot%20position%20in%203D%20space" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -740,7 +646,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://varunvelpula.github.io/project/smart_city/&amp;t=Smart%20City" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://varunvelpula.github.io/course_projects/ese650_ukf/&amp;t=Unscented%20Kalman%20Filter%20to%20track%20robot%20position%20in%203D%20space" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -753,7 +659,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Smart%20City&amp;body=https://varunvelpula.github.io/project/smart_city/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Unscented%20Kalman%20Filter%20to%20track%20robot%20position%20in%203D%20space&amp;body=https://varunvelpula.github.io/course_projects/ese650_ukf/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -766,7 +672,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://varunvelpula.github.io/project/smart_city/&amp;title=Smart%20City" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://varunvelpula.github.io/course_projects/ese650_ukf/&amp;title=Unscented%20Kalman%20Filter%20to%20track%20robot%20position%20in%203D%20space" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -779,7 +685,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Smart%20City%20https://varunvelpula.github.io/project/smart_city/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Unscented%20Kalman%20Filter%20to%20track%20robot%20position%20in%203D%20space%20https://varunvelpula.github.io/course_projects/ese650_ukf/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -792,7 +698,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://varunvelpula.github.io/project/smart_city/&amp;title=Smart%20City" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://varunvelpula.github.io/course_projects/ese650_ukf/&amp;title=Unscented%20Kalman%20Filter%20to%20track%20robot%20position%20in%203D%20space" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -904,29 +810,10 @@
 
 
 
-  
-  
 
 
 
 
-
-    <div class="project-related-pages content-widget-hr">
-      
-      
-
-      
-      
-      
-
-      
-      
-      
-
-      
-      
-      
-    </div>
   </div>
 </article>
 

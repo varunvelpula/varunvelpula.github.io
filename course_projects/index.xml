@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Learning | Personal Portfolio</title>
-    <link>https://varunvelpula.github.io/tag/machine-learning/</link>
-      <atom:link href="https://varunvelpula.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Machine Learning</description>
+    <title>Course_projects | Personal Portfolio</title>
+    <link>https://varunvelpula.github.io/course_projects/</link>
+      <atom:link href="https://varunvelpula.github.io/course_projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Course_projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://varunvelpula.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Machine Learning</title>
-      <link>https://varunvelpula.github.io/tag/machine-learning/</link>
+      <title>Course_projects</title>
+      <link>https://varunvelpula.github.io/course_projects/</link>
     </image>
     
     <item>
@@ -22,9 +22,17 @@
     
     <item>
       <title>Predicting success of a crowdfunded project on Kickstrater platform</title>
-      <link>https://varunvelpula.github.io/project/cis520/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://varunvelpula.github.io/project/cis520/</guid>
+      <link>https://varunvelpula.github.io/course_projects/ese650_slam/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://varunvelpula.github.io/course_projects/ese650_slam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unscented Kalman Filter to track robot position in 3D space</title>
+      <link>https://varunvelpula.github.io/course_projects/ese650_ukf/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://varunvelpula.github.io/course_projects/ese650_ukf/</guid>
       <description></description>
     </item>
     

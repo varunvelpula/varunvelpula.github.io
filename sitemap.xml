@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://varunvelpula.github.io/tag/deep-learning/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://varunvelpula.github.io/tag/computer-vision/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://varunvelpula.github.io/project/cis522/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://varunvelpula.github.io/course_projects/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://varunvelpula.github.io/tag/deep-learning/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://varunvelpula.github.io/tag/machine-learning/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://varunvelpula.github.io/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://varunvelpula.github.io/tags/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://varunvelpula.github.io/course_projects/cis680_yolo/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://varunvelpula.github.io/project/cis522/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,13 +48,23 @@
   </url>
   
   <url>
-    <loc>https://varunvelpula.github.io/tags/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <loc>https://varunvelpula.github.io/course_projects/ese650_slam/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://varunvelpula.github.io/tag/machine-learning/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    <loc>https://varunvelpula.github.io/tag/simultaneous-localization-and-mapping/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://varunvelpula.github.io/tag/robotics/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://varunvelpula.github.io/course_projects/ese650_ukf/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -44,11 +79,6 @@
   
   <url>
     <loc>https://varunvelpula.github.io/tag/path-planning/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://varunvelpula.github.io/tag/robotics/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
