@@ -5,12 +5,20 @@
     <link>https://varunvelpula.github.io/tag/computer-vision/</link>
       <atom:link href="https://varunvelpula.github.io/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Vision</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://varunvelpula.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Computer Vision</title>
       <link>https://varunvelpula.github.io/tag/computer-vision/</link>
     </image>
+    
+    <item>
+      <title>SOLO algorithm for object recognition in images</title>
+      <link>https://varunvelpula.github.io/project/cis680_solo/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://varunvelpula.github.io/project/cis680_solo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>YOLO algorithm for object recognition in images</title>
